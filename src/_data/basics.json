@@ -4,5 +4,12 @@
   "tag": "Love Jesus. Love Tech.",
   "facebook": "",
   "description": "Kingdom Code. We’re a community of people who love Jesus and love tech. We’re creatives, developers, designers, entrepreneurs, ideators and innovators.",
-  "ga": "UA-121839947-1"
+  "ga": "UA-121839947-1",
+  "socials": { 
+    "github": "https://github.com/kingdom-code",
+    "instagram": "https://instagram.com/kcodeuk",
+    "twitter": "https://twitter.com/kcodeuk",
+    "eventbrite": "https://kingdomcode.eventbrite.co.uk",
+    "slack": "http://kingdombuilders.io"
+  }
 }
